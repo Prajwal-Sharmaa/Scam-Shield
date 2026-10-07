@@ -195,23 +195,4 @@ If you suspect you've been scammed: Call **1930** (India Cybercrime Helpline) or
 
 ---
 
-## 🎓 Viva / Demo Talking Points
-
-1. **Problem**: Explain rising trend of digital fraud and social engineering
-2. **Solution**: Local rule-based explainable AI without privacy concerns
-3. **Architecture**: Decoupled React frontend + Express REST API + SQLite
-4. **Engine**: Walk through `redFlagDetector.js` → `riskScorer.js` → `recommendationEngine.js`
-5. **Formula**: Explain diminishing-returns scoring and why it's better than linear
-6. **Demo**: Live scan of a fake bank KYC message and a phishing URL
-7. **Charts**: Show analytics page with seeded data
-8. **Limitations & Future**: ML upgrade, multi-language support, extension
-
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of Dashboard, Message Scanner, URL Scanner, History, Analytics here)*
-
----
-
 *Built as a college minor project. For educational use only.*
