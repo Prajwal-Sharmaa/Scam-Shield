@@ -194,5 +194,3 @@ ScamShield AI is an **educational tool for demonstration purposes**. It does not
 If you suspect you've been scammed: Call **1930** (India Cybercrime Helpline) or visit **cybercrime.gov.in**.
 
 ---
-
-*Built as a college minor project. For educational use only.*
